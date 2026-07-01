@@ -1,6 +1,6 @@
 # Miguel Angel Chimborazo
 
-### Full Stack Developer | Backend • Cloud • Scalable Systems
+### Full Stack Developer | Backend • Frontend • Cloud • Scalable Systems
 
 [![Gmail](https://img.shields.io/badge/macf06200%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:macf06200@gmail.com)
 [![GitHub](https://img.shields.io/badge/@migue1angel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/migue1angel)
