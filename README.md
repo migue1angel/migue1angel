@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/macf06200%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:macf06200@gmail.com)
 [![GitHub](https://img.shields.io/badge/@migue1angel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/migue1angel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-chimborazo/)
-[![English](https://img.shields.io/badge/English-B2_EF_SET-0052CC?style=flat-square)](https://www.efset.org/)
+[![English](https://img.shields.io/badge/English-B2_EF_SET-0052CC?style=flat-square)](https://cert.efset.org/mRiX94)
 
 ---
 
@@ -58,7 +58,7 @@ I'm currently expanding my expertise in AWS and serverless architectures while a
 
 | Project | Description | Repository | Live |
 |---------|-------------|------------|------|
-| 🎓 **Akadian Showcase** | Production-oriented Educational SaaS | 🔗 [GitHub](https://github.com/migue1angel/akadian-showcase) | 🚀 *(Demo URL)* |
+| 🎓 **Akadian Showcase** | Production-oriented Educational SaaS | 🔗 [GitHub](https://github.com/migue1angel/akadian-showcase) | 🚀 *(https://akadian-showcase.netlify.app/)* |
 | 🏦 **FinTrack** | Backend Architecture & AWS | 🔗 *(Coming Soon)* | 🚧 In Progress |
 | 🏛️ **Agreement** | Government Digital Services | 🔗 [GitHub](https://github.com/cmtl0204/agreement-frontend) | — |
 
