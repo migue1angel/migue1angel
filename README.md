@@ -61,7 +61,7 @@ I'm currently expanding my expertise in AWS and serverless architectures while a
 | 🎓 **Akadian Showcase** | Production-oriented Educational SaaS | 🔗 [GitHub](https://github.com/migue1angel/akadian-showcase) | 🚀 https://akadian-showcase.netlify.app/ |
 | 🛒 **CFit** | Production-ready Sports Supplements E-commerce | 🔒 Private | 🚀 https://staging-gules-one.vercel.app/ |
 | 🏛️ **SITURIN** | Tourism Regulations Management System (Legacy Migration) | 🔒 Private | 🌐 https://siturin.produccion.gob.ec/ |
-| 🏦 **FinTrack** | Backend Architecture & AWS | 🔗 *(Coming Soon)* | 🚧 In Progress |
+| 🏦 **FinTrack** | Backend Architecture & AWS | 🔗 [GitHub](https://github.com/migue1angel/Fintrack) | 🚧 In Progress |
 | 🏛️ **Agreement** | Government Digital Services | 🔗 [GitHub](https://github.com/cmtl0204/agreement-frontend) | — |
 
 ---
